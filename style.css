@@ -112,6 +112,11 @@ main {
 	padding-right:30px;
 }
 
+.projects span {
+	color: red;
+	font-size: 1rem;
+}
+
 #intro span {
 	color:red;
 	font-size: 1rem;
