@@ -135,6 +135,10 @@ h3 {
 	padding-top: 10px;
 }
 
+#piiquante span {
+	color :rgb(43, 0, 255);
+}
+
 /***************** FOOTER ********************/
 footer {
 	background-color: rgb(254, 238, 235);
