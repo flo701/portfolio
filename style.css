@@ -112,7 +112,7 @@ main {
 	padding-right:30px;
 }
 
-.projects span {
+span {
 	color: red;
 	font-size: 1rem;
 }
@@ -135,7 +135,7 @@ h3 {
 	padding-top: 10px;
 }
 
-#piiquante span {
+span.precision {
 	color :rgb(43, 0, 255);
 }
 
